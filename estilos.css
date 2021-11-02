@@ -10,6 +10,9 @@ h1 {
 	
 	
 }
+.son-music{
+	text-align: center;
+}
  .container {
 	display:flex;
 	background-color:rgb(245, 230, 23);
