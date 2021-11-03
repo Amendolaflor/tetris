@@ -12,18 +12,20 @@ h1 {
 }
 .son-music{
 	text-align: center;
+	margin-top: 150px;
 }
  .container {
+	justify-content: center;
 	display:flex;
 	background-color:rgb(245, 230, 23);
 	width: 500px;
-	margin: 0 auto;
+	margin-left: 100px;
 	margin-top: 50px;
 } 
 .cont-child {
 	margin: 0 auto;
-	margin-top: 30px;
-	margin-bottom: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 	background-color:rgb(245, 230, 23);
 	
 }
@@ -33,6 +35,10 @@ h1 {
 }
 span {
 	background-color:rgb(245, 230, 23);
+}
+.row {
+	display:flex;
+
 }	
 .grid {
 	margin-bottom: 90px;
